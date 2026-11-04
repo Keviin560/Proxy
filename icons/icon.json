@@ -8,11 +8,396 @@
   "repository": "https://github.com/Keviin560/Proxy",
   "homepage": "https://github.com/Keviin560/Proxy/tree/main/icons",
   "updated": "2026-11-04",
-  "total": 0,
+  "total": 96,
   "specifications": {
     "format": "PNG",
     "resolution": "1024x1024",
     "background": "transparent-preferred"
   },
-  "icons": []
+  "icons": [
+    {
+      "name": "1.1.1.1",
+      "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/1.1.1.1.png"
+    },
+    {
+      "name": "115",
+      "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/115.png"
+    },
+    {
+      "name": "123 Cloud",
+      "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/123%20Cloud.png"
+    },
+    {
+      "name": "12306",
+      "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/12306.png"
+    },
+    {
+      "name": "36Kr",
+      "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/36Kr.png"
+    },
+    {
+      "name": "Actions",
+      "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/Actions.png"
+    },
+    {
+      "name": "Ad Blocker",
+      "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/Ad%20Blocker.png"
+    },
+    {
+      "name": "Addons",
+      "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/Addons.png"
+    },
+    {
+      "name": "AdGuard",
+      "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/AdGuard.png"
+    },
+    {
+      "name": "Affinity Designer",
+      "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/Affinity%20Designer.png"
+    },
+    {
+      "name": "Affinity Photo",
+      "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/Affinity%20Photo.png"
+    },
+    {
+      "name": "Africa",
+      "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/Africa.png"
+    },
+    {
+      "name": "Ai",
+      "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/Ai.png"
+    },
+    {
+      "name": "Airbrush",
+      "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/Airbrush.png"
+    },
+    {
+      "name": "Alibaba Cloud",
+      "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/Alibaba%20Cloud.png"
+    },
+    {
+      "name": "AliPay",
+      "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/AliPay.png"
+    },
+    {
+      "name": "Alist",
+      "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/Alist.png"
+    },
+    {
+      "name": "AMap",
+      "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/AMap.png"
+    },
+    {
+      "name": "Amazon Music",
+      "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/Amazon%20Music.png"
+    },
+    {
+      "name": "Americas",
+      "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/Americas.png"
+    },
+    {
+      "name": "API Wallet",
+      "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/API%20Wallet.png"
+    },
+    {
+      "name": "App Lock",
+      "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/App%20Lock.png"
+    },
+    {
+      "name": "App Store Connect",
+      "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/App%20Store%20Connect.png"
+    },
+    {
+      "name": "App Store",
+      "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/App%20Store.png"
+    },
+    {
+      "name": "Apple (2)",
+      "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/Apple%20(2).png"
+    },
+    {
+      "name": "Apple (3)",
+      "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/Apple%20(3).png"
+    },
+    {
+      "name": "Apple Health",
+      "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/Apple%20Health.png"
+    },
+    {
+      "name": "Apple Intelligence",
+      "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/Apple%20Intelligence.png"
+    },
+    {
+      "name": "Apple Music",
+      "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/Apple%20Music.png"
+    },
+    {
+      "name": "Apple News",
+      "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/Apple%20News.png"
+    },
+    {
+      "name": "Apple Notes",
+      "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/Apple%20Notes.png"
+    },
+    {
+      "name": "Apple Store",
+      "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/Apple%20Store.png"
+    },
+    {
+      "name": "Apple",
+      "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/Apple.png"
+    },
+    {
+      "name": "APTV",
+      "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/APTV.png"
+    },
+    {
+      "name": "Asia",
+      "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/Asia.png"
+    },
+    {
+      "name": "ASUS",
+      "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/ASUS.png"
+    },
+    {
+      "name": "Audible",
+      "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/Audible.png"
+    },
+    {
+      "name": "AUS",
+      "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/AUS.png"
+    },
+    {
+      "name": "Azure",
+      "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/Azure.png"
+    },
+    {
+      "name": "Baidu Input",
+      "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/Baidu%20Input.png"
+    },
+    {
+      "name": "Baidu Map",
+      "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/Baidu%20Map.png"
+    },
+    {
+      "name": "Baidu Read",
+      "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/Baidu%20Read.png"
+    },
+    {
+      "name": "Baidu",
+      "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/Baidu.png"
+    },
+    {
+      "name": "BCut",
+      "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/BCut.png"
+    },
+    {
+      "name": "BDdisk",
+      "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/BDdisk.png"
+    },
+    {
+      "name": "BeeJoy",
+      "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/BeeJoy.png"
+    },
+    {
+      "name": "Behance",
+      "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/Behance.png"
+    },
+    {
+      "name": "BiliBili (2)",
+      "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/BiliBili%20(2).png"
+    },
+    {
+      "name": "BiliBili Manga",
+      "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/BiliBili%20Manga.png"
+    },
+    {
+      "name": "BiliBili",
+      "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/BiliBili.png"
+    },
+    {
+      "name": "Bing",
+      "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/Bing.png"
+    },
+    {
+      "name": "Bitcoin",
+      "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/Bitcoin.png"
+    },
+    {
+      "name": "Bitget (2)",
+      "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/Bitget%20(2).png"
+    },
+    {
+      "name": "Bitget",
+      "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/Bitget.png"
+    },
+    {
+      "name": "Blinkist",
+      "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/Blinkist.png"
+    },
+    {
+      "name": "Block Cat",
+      "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/Block%20Cat.png"
+    },
+    {
+      "name": "BlockSite",
+      "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/BlockSite.png"
+    },
+    {
+      "name": "Bodian Music",
+      "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/Bodian%20Music.png"
+    },
+    {
+      "name": "Bookmory",
+      "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/Bookmory.png"
+    },
+    {
+      "name": "Botim",
+      "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/Botim.png"
+    },
+    {
+      "name": "Brave",
+      "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/Brave.png"
+    },
+    {
+      "name": "BUS",
+      "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/BUS.png"
+    },
+    {
+      "name": "Bybit",
+      "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/Bybit.png"
+    },
+    {
+      "name": "Ca",
+      "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/Ca.png"
+    },
+    {
+      "name": "CaiXin",
+      "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/CaiXin.png"
+    },
+    {
+      "name": "CamScanner",
+      "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/CamScanner.png"
+    },
+    {
+      "name": "Canva",
+      "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/Canva.png"
+    },
+    {
+      "name": "CapCut",
+      "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/CapCut.png"
+    },
+    {
+      "name": "CBN",
+      "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/CBN.png"
+    },
+    {
+      "name": "ChatGPT (2)",
+      "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/ChatGPT%20(2).png"
+    },
+    {
+      "name": "ChatGPT",
+      "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/ChatGPT.png"
+    },
+    {
+      "name": "ChMirror",
+      "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/ChMirror.png"
+    },
+    {
+      "name": "CHN",
+      "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/CHN.png"
+    },
+    {
+      "name": "Chrome",
+      "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/Chrome.png"
+    },
+    {
+      "name": "Clash Mi",
+      "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/Clash%20Mi.png"
+    },
+    {
+      "name": "Clash",
+      "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/Clash.png"
+    },
+    {
+      "name": "Claude",
+      "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/Claude.png"
+    },
+    {
+      "name": "Clipchamp",
+      "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/Clipchamp.png"
+    },
+    {
+      "name": "CloudDrive2",
+      "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/CloudDrive2.png"
+    },
+    {
+      "name": "Cloudflare One",
+      "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/Cloudflare%20One.png"
+    },
+    {
+      "name": "CMCC",
+      "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/CMCC.png"
+    },
+    {
+      "name": "Coinbase",
+      "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/Coinbase.png"
+    },
+    {
+      "name": "Conflux",
+      "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/Conflux.png"
+    },
+    {
+      "name": "Console Remote",
+      "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/Console%20Remote.png"
+    },
+    {
+      "name": "Copilot",
+      "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/Copilot.png"
+    },
+    {
+      "name": "Cotti Coffee",
+      "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/Cotti%20Coffee.png"
+    },
+    {
+      "name": "Craft",
+      "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/Craft.png"
+    },
+    {
+      "name": "CTCC",
+      "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/CTCC.png"
+    },
+    {
+      "name": "CUCC",
+      "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/CUCC.png"
+    },
+    {
+      "name": "DangDang",
+      "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/DangDang.png"
+    },
+    {
+      "name": "Dazhong",
+      "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/Dazhong.png"
+    },
+    {
+      "name": "Dedao",
+      "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/Dedao.png"
+    },
+    {
+      "name": "Defender",
+      "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/Defender.png"
+    },
+    {
+      "name": "DiDi",
+      "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/DiDi.png"
+    },
+    {
+      "name": "Dimo",
+      "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/Dimo.png"
+    },
+    {
+      "name": "DingTalk",
+      "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/DingTalk.png"
+    }
+  ]
 }
