@@ -8,7 +8,7 @@
   "repository": "https://github.com/Keviin560/Proxy",
   "homepage": "https://github.com/Keviin560/Proxy/tree/main/icons",
   "updated": "2026-11-04",
-  "total": 480,
+  "total": 488,
   "specifications": {
     "format": "PNG",
     "resolution": "1024x1024",
@@ -1934,6 +1934,38 @@
     {
       "name": "YouTube",
       "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/YouTube.png"
+    },
+    {
+      "name": "Ytoo",
+      "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/Ytoo.png"
+    },
+    {
+      "name": "YuanShu Input",
+      "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/YuanShu%20Input.png"
+    },
+    {
+      "name": "Yuni",
+      "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/Yuni.png"
+    },
+    {
+      "name": "Zepp Life",
+      "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/Zepp%20Life.png"
+    },
+    {
+      "name": "Zeta Stitch",
+      "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/Zeta%20Stitch.png"
+    },
+    {
+      "name": "Zhihu",
+      "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/Zhihu.png"
+    },
+    {
+      "name": "Zhiniao",
+      "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/Zhiniao.png"
+    },
+    {
+      "name": "Zoom",
+      "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/Zoom.png"
     }
   ]
 }
