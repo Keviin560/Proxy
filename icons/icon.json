@@ -1,0 +1,18 @@
+{
+  "name": "凯文图标库",
+  "description": "高清图标资源库，主要用于分享与学习交流，切勿用于商业用途。",
+  "author": {
+    "name": "Keviin560",
+    "url": "https://github.com/Keviin560"
+  },
+  "repository": "https://github.com/Keviin560/Proxy",
+  "homepage": "https://github.com/Keviin560/Proxy/tree/main/icons",
+  "updated": "2026-11-04",
+  "total": 0,
+  "specifications": {
+    "format": "PNG",
+    "resolution": "1024x1024",
+    "background": "transparent-preferred"
+  },
+  "icons": []
+}
