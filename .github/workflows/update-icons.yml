@@ -1,0 +1,189 @@
+name: Update Kevin Icons
+
+on:
+  push:
+    paths:
+      - 'icons/assets/**'
+      - '.github/workflows/update-icons.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-icons:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Generate icon.json and README.md
+        env:
+          GITHUB_REPOSITORY: ${{ github.repository }}
+          GITHUB_REF_NAME: ${{ github.ref_name }}
+        run: |
+          node <<'NODE'
+          const fs = require('node:fs');
+          const path = require('node:path');
+
+          // ==========================================
+          // 1. Directory configuration
+          // ==========================================
+
+          const rootDir = process.cwd();
+
+          const iconsDir = path.join(rootDir, 'icons');
+          const assetsDir = path.join(iconsDir, 'assets');
+
+          const jsonPath = path.join(iconsDir, 'icon.json');
+          const readmePath = path.join(iconsDir, 'README.md');
+
+          // Ensure directories exist.
+          fs.mkdirSync(assetsDir, { recursive: true });
+
+          // ==========================================
+          // 2. Repository information
+          // ==========================================
+
+          const repository = process.env.GITHUB_REPOSITORY;
+          const branch = process.env.GITHUB_REF_NAME || 'main';
+
+          if (!repository || !/^[^/]+\/[^/]+$/.test(repository)) {
+            throw new Error('Invalid GITHUB_REPOSITORY value.');
+          }
+
+          const owner = repository.split('/')[0];
+
+          // Encode branch path segments separately.
+          const encodedBranch = branch
+            .split('/')
+            .map(encodeURIComponent)
+            .join('/');
+
+          const repositoryUrl =
+            `https://github.com/${repository}`;
+
+          const homepageUrl =
+            `${repositoryUrl}/tree/${encodedBranch}/icons`;
+
+          const rawBaseUrl =
+            `https://raw.githubusercontent.com/${repository}/${encodedBranch}`;
+
+          // Dynamic subscription URL.
+          const rawSubscriptionUrl =
+            `${rawBaseUrl}/icons/icon.json`;
+
+          // ==========================================
+          // 3. Scan PNG icons
+          // ==========================================
+
+          const iconFiles = fs.readdirSync(assetsDir, {
+            withFileTypes: true
+          })
+            .filter(entry =>
+              entry.isFile() &&
+              path.extname(entry.name).toLowerCase() === '.png'
+            )
+            .map(entry => entry.name)
+            .sort((a, b) =>
+              a.localeCompare(b, 'en', { sensitivity: 'base' })
+            );
+
+          // ==========================================
+          // 4. Generate icon.json
+          // ==========================================
+
+          const icons = iconFiles.map(file => ({
+            name: path.parse(file).name,
+            url: `${rawBaseUrl}/icons/assets/${encodeURIComponent(file)}`
+          }));
+
+          const iconData = {
+            name: '凯文图标库',
+            description: '高清图标资源库，主要用于分享与学习交流，切勿用于商业用途。',
+            author: {
+              name: owner,
+              url: `https://github.com/${owner}`
+            },
+            repository: repositoryUrl,
+            homepage: homepageUrl,
+            updated: new Date().toISOString().slice(0, 10),
+            total: icons.length,
+            specifications: {
+              format: 'PNG',
+              resolution: '1024x1024',
+              background: 'transparent-preferred'
+            },
+            icons
+          };
+
+          fs.writeFileSync(
+            jsonPath,
+            JSON.stringify(iconData, null, 2) + '\n',
+            'utf8'
+          );
+
+          // ==========================================
+          // 5. Generate README.md
+          // ==========================================
+
+          const readmeContent = `## 项目说明
+
+          高清图标资源库，图标尺寸：1024px × 1024px，订阅链接：${rawSubscriptionUrl}
+
+          ## 免责声明
+
+          1. 本项目主要用于资源分享与学习交流，项目内所涉及的图标、LOGO 等素材仅供参考，不保证其合法性、正当性及准确性。
+
+          2. 所有素材版权均归原作者或相关权利人所有，切勿将本项目及其所收录的素材用于任何商业用途或牟利行为。
+
+          3. 如有侵权，请联系项目维护者处理。
+          `;
+
+          // Remove indentation from the YAML block.
+          const formattedReadme = readmeContent
+            .split('\n')
+            .map(line => line.replace(/^          /, ''))
+            .join('\n')
+            .trimStart();
+
+          fs.writeFileSync(
+            readmePath,
+            formattedReadme + '\n',
+            'utf8'
+          );
+
+          // ==========================================
+          // 6. Output summary
+          // ==========================================
+
+          console.log('Icon library: 凯文图标库');
+          console.log(`Repository: ${repository}`);
+          console.log(`Branch: ${branch}`);
+          console.log(`Total icons: ${icons.length}`);
+          console.log(`Subscription URL: ${rawSubscriptionUrl}`);
+          console.log('icon.json generated successfully.');
+          console.log('README.md generated successfully.');
+
+          NODE
+
+      - name: Commit generated files
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add icons/icon.json icons/README.md
+
+          if git diff --cached --quiet; then
+            echo "No generated files have changed."
+            exit 0
+          fi
+
+          git commit -m "chore(icons): update icon index [skip ci]"
+          git push
