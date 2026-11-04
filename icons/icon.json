@@ -8,7 +8,7 @@
   "repository": "https://github.com/Keviin560/Proxy",
   "homepage": "https://github.com/Keviin560/Proxy/tree/main/icons",
   "updated": "2026-11-04",
-  "total": 384,
+  "total": 480,
   "specifications": {
     "format": "PNG",
     "resolution": "1024x1024",
@@ -1550,6 +1550,390 @@
     {
       "name": "Taobao",
       "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/Taobao.png"
+    },
+    {
+      "name": "Taopiaopiao",
+      "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/Taopiaopiao.png"
+    },
+    {
+      "name": "Tapon",
+      "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/Tapon.png"
+    },
+    {
+      "name": "Taste",
+      "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/Taste.png"
+    },
+    {
+      "name": "Teams",
+      "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/Teams.png"
+    },
+    {
+      "name": "Telegram",
+      "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/Telegram.png"
+    },
+    {
+      "name": "Tencent Ad",
+      "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/Tencent%20Ad.png"
+    },
+    {
+      "name": "Tencent Cloud",
+      "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/Tencent%20Cloud.png"
+    },
+    {
+      "name": "Tencent Docs",
+      "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/Tencent%20Docs.png"
+    },
+    {
+      "name": "Tencent Map",
+      "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/Tencent%20Map.png"
+    },
+    {
+      "name": "Tencent News",
+      "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/Tencent%20News.png"
+    },
+    {
+      "name": "Tencent Translator",
+      "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/Tencent%20Translator.png"
+    },
+    {
+      "name": "Tencent Video",
+      "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/Tencent%20Video.png"
+    },
+    {
+      "name": "TG Connect",
+      "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/TG%20Connect.png"
+    },
+    {
+      "name": "The Paper",
+      "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/The%20Paper.png"
+    },
+    {
+      "name": "Threads",
+      "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/Threads.png"
+    },
+    {
+      "name": "Three",
+      "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/Three.png"
+    },
+    {
+      "name": "ThriftBooks",
+      "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/ThriftBooks.png"
+    },
+    {
+      "name": "Thunder",
+      "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/Thunder.png"
+    },
+    {
+      "name": "TickTick",
+      "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/TickTick.png"
+    },
+    {
+      "name": "Tidal",
+      "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/Tidal.png"
+    },
+    {
+      "name": "Tieba",
+      "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/Tieba.png"
+    },
+    {
+      "name": "TikTok",
+      "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/TikTok.png"
+    },
+    {
+      "name": "TIM",
+      "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/TIM.png"
+    },
+    {
+      "name": "Tmall",
+      "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/Tmall.png"
+    },
+    {
+      "name": "TMDB",
+      "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/TMDB.png"
+    },
+    {
+      "name": "Top Widgets",
+      "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/Top%20Widgets.png"
+    },
+    {
+      "name": "TOR",
+      "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/TOR.png"
+    },
+    {
+      "name": "Total Adblock",
+      "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/Total%20Adblock.png"
+    },
+    {
+      "name": "TradingView",
+      "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/TradingView.png"
+    },
+    {
+      "name": "Trakt",
+      "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/Trakt.png"
+    },
+    {
+      "name": "Trip",
+      "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/Trip.png"
+    },
+    {
+      "name": "TurboTax",
+      "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/TurboTax.png"
+    },
+    {
+      "name": "Tutu",
+      "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/Tutu.png"
+    },
+    {
+      "name": "TV Time",
+      "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/TV%20Time.png"
+    },
+    {
+      "name": "TVBox",
+      "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/TVBox.png"
+    },
+    {
+      "name": "uBlock Origin Lite",
+      "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/uBlock%20Origin%20Lite.png"
+    },
+    {
+      "name": "UC",
+      "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/UC.png"
+    },
+    {
+      "name": "UK",
+      "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/UK.png"
+    },
+    {
+      "name": "USA",
+      "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/USA.png"
+    },
+    {
+      "name": "UU Game Booster",
+      "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/UU%20Game%20Booster.png"
+    },
+    {
+      "name": "UU Remote",
+      "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/UU%20Remote.png"
+    },
+    {
+      "name": "V2Box",
+      "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/V2Box.png"
+    },
+    {
+      "name": "v2ex",
+      "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/v2ex.png"
+    },
+    {
+      "name": "VibePlayer",
+      "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/VibePlayer.png"
+    },
+    {
+      "name": "Videos",
+      "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/Videos.png"
+    },
+    {
+      "name": "VidHub",
+      "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/VidHub.png"
+    },
+    {
+      "name": "VinylPod",
+      "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/VinylPod.png"
+    },
+    {
+      "name": "Viva Engage",
+      "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/Viva%20Engage.png"
+    },
+    {
+      "name": "VN",
+      "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/VN.png"
+    },
+    {
+      "name": "VooV Meeting",
+      "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/VooV%20Meeting.png"
+    },
+    {
+      "name": "VSCO",
+      "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/VSCO.png"
+    },
+    {
+      "name": "Wake",
+      "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/Wake.png"
+    },
+    {
+      "name": "Walmart",
+      "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/Walmart.png"
+    },
+    {
+      "name": "Watch List",
+      "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/Watch%20List.png"
+    },
+    {
+      "name": "Weather",
+      "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/Weather.png"
+    },
+    {
+      "name": "WeChat Audiobook",
+      "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/WeChat%20Audiobook.png"
+    },
+    {
+      "name": "WeChat Mini Program",
+      "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/WeChat%20Mini%20Program.png"
+    },
+    {
+      "name": "WeChat Official Accounts",
+      "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/WeChat%20Official%20Accounts.png"
+    },
+    {
+      "name": "WeChat Pay",
+      "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/WeChat%20Pay.png"
+    },
+    {
+      "name": "WeChat",
+      "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/WeChat.png"
+    },
+    {
+      "name": "WeCom",
+      "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/WeCom.png"
+    },
+    {
+      "name": "WeGame Mobile",
+      "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/WeGame%20Mobile.png"
+    },
+    {
+      "name": "Weibo",
+      "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/Weibo.png"
+    },
+    {
+      "name": "Weread",
+      "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/Weread.png"
+    },
+    {
+      "name": "WeType",
+      "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/WeType.png"
+    },
+    {
+      "name": "WhatsApp",
+      "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/WhatsApp.png"
+    },
+    {
+      "name": "Whiteboard",
+      "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/Whiteboard.png"
+    },
+    {
+      "name": "Wikipedia",
+      "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/Wikipedia.png"
+    },
+    {
+      "name": "Windows",
+      "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/Windows.png"
+    },
+    {
+      "name": "Word 2025",
+      "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/Word%202025.png"
+    },
+    {
+      "name": "Word",
+      "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/Word.png"
+    },
+    {
+      "name": "WordPress",
+      "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/WordPress.png"
+    },
+    {
+      "name": "WPS Collaboration",
+      "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/WPS%20Collaboration.png"
+    },
+    {
+      "name": "WPS Docs",
+      "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/WPS%20Docs.png"
+    },
+    {
+      "name": "WPS Office",
+      "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/WPS%20Office.png"
+    },
+    {
+      "name": "WPS PDF",
+      "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/WPS%20PDF.png"
+    },
+    {
+      "name": "X",
+      "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/X.png"
+    },
+    {
+      "name": "Xbox",
+      "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/Xbox.png"
+    },
+    {
+      "name": "Xd",
+      "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/Xd.png"
+    },
+    {
+      "name": "Xiaomi Earbuds",
+      "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/Xiaomi%20Earbuds.png"
+    },
+    {
+      "name": "Xiaomi Home",
+      "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/Xiaomi%20Home.png"
+    },
+    {
+      "name": "Xiaomi Interconnectivity",
+      "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/Xiaomi%20Interconnectivity.png"
+    },
+    {
+      "name": "Xiaomi Mico",
+      "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/Xiaomi%20Mico.png"
+    },
+    {
+      "name": "Xiaomi Wear Lite",
+      "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/Xiaomi%20Wear%20Lite.png"
+    },
+    {
+      "name": "Xiaoyuzhou FM",
+      "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/Xiaoyuzhou%20FM.png"
+    },
+    {
+      "name": "Ximalaya FM",
+      "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/Ximalaya%20FM.png"
+    },
+    {
+      "name": "Xlist",
+      "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/Xlist.png"
+    },
+    {
+      "name": "Xmind",
+      "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/Xmind.png"
+    },
+    {
+      "name": "XPTV",
+      "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/XPTV.png"
+    },
+    {
+      "name": "Youdao Note",
+      "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/Youdao%20Note.png"
+    },
+    {
+      "name": "Youku",
+      "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/Youku.png"
+    },
+    {
+      "name": "YouTube Create",
+      "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/YouTube%20Create.png"
+    },
+    {
+      "name": "YouTube Music",
+      "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/YouTube%20Music.png"
+    },
+    {
+      "name": "YouTube Studio",
+      "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/YouTube%20Studio.png"
+    },
+    {
+      "name": "YouTube TV",
+      "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/YouTube%20TV.png"
+    },
+    {
+      "name": "YouTube",
+      "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/YouTube.png"
     }
   ]
 }
