@@ -7,8 +7,8 @@
   },
   "repository": "https://github.com/Keviin560/Proxy",
   "homepage": "https://github.com/Keviin560/Proxy/tree/main/icons",
-  "updated": "2026-11-04",
-  "total": 488,
+  "updated": "2026-11-12",
+  "total": 504,
   "specifications": {
     "format": "PNG",
     "resolution": "1024x1024",
@@ -94,6 +94,10 @@
     {
       "name": "Americas",
       "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/Americas.png"
+    },
+    {
+      "name": "Angel Live",
+      "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/Angel%20Live.png"
     },
     {
       "name": "API Wallet",
@@ -280,6 +284,10 @@
       "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/CamScanner.png"
     },
     {
+      "name": "Cang Input",
+      "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/Cang%20Input.png"
+    },
+    {
       "name": "Canva",
       "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/Canva.png"
     },
@@ -298,6 +306,10 @@
     {
       "name": "ChatGPT",
       "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/ChatGPT.png"
+    },
+    {
+      "name": "Cheers",
+      "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/Cheers.png"
     },
     {
       "name": "ChMirror",
@@ -382,6 +394,10 @@
     {
       "name": "Dedao",
       "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/Dedao.png"
+    },
+    {
+      "name": "DeepSeek",
+      "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/DeepSeek.png"
     },
     {
       "name": "Defender",
@@ -536,6 +552,10 @@
       "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/FnOS.png"
     },
     {
+      "name": "Foobar",
+      "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/Foobar.png"
+    },
+    {
       "name": "Fr",
       "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/Fr.png"
     },
@@ -640,6 +660,10 @@
       "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/Google.png"
     },
     {
+      "name": "Grok",
+      "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/Grok.png"
+    },
+    {
       "name": "GuitarTuna",
       "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/GuitarTuna.png"
     },
@@ -726,6 +750,10 @@
     {
       "name": "Hulu",
       "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/Hulu.png"
+    },
+    {
+      "name": "Hypic",
+      "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/Hypic.png"
     },
     {
       "name": "iCloud",
@@ -984,6 +1012,10 @@
       "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/Mi%20Print.png"
     },
     {
+      "name": "Miao Project",
+      "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/Miao%20Project.png"
+    },
+    {
       "name": "MiaoJian",
       "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/MiaoJian.png"
     },
@@ -1070,6 +1102,10 @@
     {
       "name": "Must",
       "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/Must.png"
+    },
+    {
+      "name": "Nagram",
+      "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/Nagram.png"
     },
     {
       "name": "NasCab",
@@ -1428,6 +1464,10 @@
       "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/SenPlayer.png"
     },
     {
+      "name": "Sepia",
+      "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/Sepia.png"
+    },
+    {
       "name": "Session Studio",
       "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/Session%20Studio.png"
     },
@@ -1456,6 +1496,10 @@
       "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/SIMGOT.png"
     },
     {
+      "name": "sing-box MT",
+      "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/sing-box%20MT.png"
+    },
+    {
       "name": "Siri",
       "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/Siri.png"
     },
@@ -1470,6 +1514,10 @@
     {
       "name": "Snapseed",
       "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/Snapseed.png"
+    },
+    {
+      "name": "Sougou Input",
+      "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/Sougou%20Input.png"
     },
     {
       "name": "Soul",
@@ -1644,6 +1692,14 @@
       "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/TIM.png"
     },
     {
+      "name": "Timestamp Camera (2)",
+      "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/Timestamp%20Camera%20(2).png"
+    },
+    {
+      "name": "Timestamp Camera",
+      "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/Timestamp%20Camera.png"
+    },
+    {
       "name": "Tmall",
       "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/Tmall.png"
     },
@@ -1692,6 +1748,10 @@
       "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/TVBox.png"
     },
     {
+      "name": "Twitter",
+      "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/Twitter.png"
+    },
+    {
       "name": "uBlock Origin Lite",
       "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/uBlock%20Origin%20Lite.png"
     },
@@ -1734,6 +1794,10 @@
     {
       "name": "VidHub",
       "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/VidHub.png"
+    },
+    {
+      "name": "VidPlay",
+      "url": "https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/assets/VidPlay.png"
     },
     {
       "name": "VinylPod",
