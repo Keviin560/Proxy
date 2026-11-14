@@ -1,6 +1,6 @@
 ## 项目说明
 
-高清图标资源库，图标尺寸：1024px × 1024px，订阅链接：https://raw.githubusercontent.com/Keviin560/Proxy/main/icons/icon.json
+高清图标资源库，图标尺寸：1024px × 1024px，订阅链接：https://raw.githubusercontent.com/elianokk/Proxy/main/icons/icon.json
 
 ## 免责声明
 
